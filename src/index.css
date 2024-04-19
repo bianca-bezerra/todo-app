@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Lexend",sans-serif;
+}
+
+:root {
+  --neutral-100: #F0ECE5;
+  --neutral-200: #B6BBC4;
+  --neutral-300: #31304D;
+  --neutral-400: #260d42;
+  --purple-100: #72cc56;
+}
+
+body {
+  background-color: var(--neutral-400);
+  color: var(--neutral-100)
+}
+
